@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTest", "AngularTest\AngularTest.csproj", "{A5E87EC5-08E7-4E79-AEC6-606F621FE059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTest.Models", "AngularTest.Models\AngularTest.Models.csproj", "{DF23BC79-96AB-46FC-8D68-F2DB36DD13CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E87EC5-08E7-4E79-AEC6-606F621FE059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E87EC5-08E7-4E79-AEC6-606F621FE059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E87EC5-08E7-4E79-AEC6-606F621FE059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E87EC5-08E7-4E79-AEC6-606F621FE059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF23BC79-96AB-46FC-8D68-F2DB36DD13CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF23BC79-96AB-46FC-8D68-F2DB36DD13CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF23BC79-96AB-46FC-8D68-F2DB36DD13CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF23BC79-96AB-46FC-8D68-F2DB36DD13CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D41EDC1A-DB97-4059-964F-3DD5608A52DD}
+	EndGlobalSection
+EndGlobal
