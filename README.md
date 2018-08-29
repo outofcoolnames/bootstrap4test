@@ -5,3 +5,10 @@ Playing with:
 * angular
 * mysql
 * aspnet mvc
+
+# angulartest
+Playing with:
+* angular
+* netcore 2.1
+* mysql (db script included)
+* controllers
